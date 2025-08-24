@@ -130,20 +130,3 @@ We use **Netlify** for:
 * Add **offline-first support** using service workers.
 * AI-powered **symptom checker** integration.
 * Multi-language support for accessibility.
-
----
-
-## 👨‍💻 Team Phoenix
-
-* Rishi Pandey
-* Gourav Das
-* Gargi Majumder
-* Swaraj Kumar Maity
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-also make a **short hackathon-style README** (only problem + solution + tech) or keep this detailed professional version?
-```
